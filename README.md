@@ -1,6 +1,6 @@
 # XTCBOX
 
-A ToolBox For XTC Watch.
+A ToolBox For iMoo Watch.
 
 ###### Introduction Post：
 
