@@ -1,8 +1,8 @@
-# XTCBOX
+# XTC-BOX
 
 A ToolBox For iMoo Watch.
 
-###### Introduction Post：
+###### Introduction Post：（Chinese）
 
 ###### https://wearbbs.cn/resources/xtc.147/
 
