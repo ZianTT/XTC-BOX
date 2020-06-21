@@ -1,4 +1,4 @@
-# XTCBOX
+# XTC-BOX
 
 A ToolBox For iMoo Watch.
 
