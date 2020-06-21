@@ -11,7 +11,7 @@ A ToolBox For iMoo Watch.
 1. Modify the DPI
 2. Execute Shell
 3. Open the system application, *#0769 series, replace the input method
-4. Uninstall the app
+4. Uninstall apps
 
 ###### Exchange Group：（QQ）
 
